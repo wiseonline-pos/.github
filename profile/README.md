@@ -1,12 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiseonline-pos/.github/main/profile/github-banner.png" width="60%" />
+</p>
 
-<!--
+<h2 align="center">WiseOnline POS</h2>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  Building a modern, scalable Point of Sale platform.
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/status-work%20in%20progress-orange" />
+  <img src="https://img.shields.io/badge/maintained%20by-Webwise%20Technologies-blue" />
+</p>
+
+<p align="center">
+  Project managed and maintained by <strong>Webwise Technologies</strong>.
+</p>
+
+---
+
+### About
+WiseOnline POS is focused on delivering a fast, reliable, and extensible Point of Sale system for modern businesses.
+
+### Key Projects
+- **wiseonline** – Main Application
+- **wisestock** – Inventory Management System
+- **API** – Backend services and integrations
+
+### Get Started
+- Explore repositories below
+- Follow the project for updates
+- Contributions and feedback are welcome
+
+### Links
+- Website: https://webwisetech.org
+- Documentation: *soon*
+
+### Contributing
+We welcome contributions. Please check individual repositories for contribution guidelines.
+
+---
